@@ -1,0 +1,17 @@
+.idea/
+
+*.conf
+
+!bot.conf
+
+*.log
+
+*.gradle
+
+build/*
+
+.ds_store
+
+Octave.iml
+out/*
+botversion.txt
